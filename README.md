@@ -23,6 +23,7 @@ Enable text generation based on user-provided prompts in the style of Sherlock H
 A cleaned corpus consisting of multiple works from the Sherlock Holmes series.
 Used as the training dataset.
 Source: Public domain via Project Gutenberg
+
 🔹 My_own_LLM1.ipynb
 Contains:
 Data preprocessing and tokenization
@@ -30,6 +31,8 @@ Transformer-based model architecture
 Training loop and loss tracking
 Model checkpoint saving
 Framework: PyTorch
+
+
 🔹 Text_generation_using_trained_model.ipynb
 Demonstrates:
 Loading of the trained model
